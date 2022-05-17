@@ -41,7 +41,7 @@
 	</div>
 	</div>
     <input  type="radio" value="3" name="uLim" id="uMore">
-    <label for="uMore"> Годрик сторукий</label>
+    <label for="uMore"> Больше чем нужно:)</label>
   </div>
   <div>
   	<div>Ваша биография:</div>
